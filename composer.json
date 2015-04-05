@@ -1,6 +1,6 @@
 {
     "name": "ustmaestro/yii2-multilingual-behavior",
-    "description": "Yii2 mobile dectect component",
+    "description": "Yii2 multilingual behavior",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "yii2-multilingual-behavior"],
     "license": "BSD-4-Clause",
