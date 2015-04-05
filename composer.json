@@ -1,0 +1,21 @@
+{
+    "name": "ustmaestro/yii2-multilingual-behavior",
+    "description": "Yii2 mobile dectect component",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "yii2-multilingual-behavior"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "ustmaestro",
+            "email": "ustmaestro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ustmaestro\\multilingual\\": "src"
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
